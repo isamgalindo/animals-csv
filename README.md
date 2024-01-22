@@ -31,6 +31,7 @@ python3 --version
   
 2. Run cargador_animales.py file. It will upload a csv of that has animals and some characteristics.
 3. Then, run any of the other files to interact with the csv
+https://github.com/isamgalindo/animals-csv/blob/0119bf79cb3d6883d321d997f4de3cc92b66909c/actividad_lab1.py
 ![image](https://github.com/isamgalindo/animals-csv/assets/141882033/6e14126e-dc98-474c-b736-635aa37734e9)
 ![image](https://github.com/isamgalindo/animals-csv/assets/141882033/3c904932-3cd7-4387-9f96-c4072a20fe86)
 
